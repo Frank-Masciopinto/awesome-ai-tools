@@ -9,6 +9,7 @@ Welcome to Awesome AI Tools! Dive into my curated list of AI list, featuring top
 We publish regular updates of this repo in the [Altern Newsletter](http://newsletter.altern.ai). [Subscribe](http://newsletter.altern.ai) for the latest AI news and discover the best AI tools.
 
 ## Contents
+| **SummarizAI** | On-page YouTube AI summary, chapters, chat, and Study flashcards for students | Indie | **Freemium:** Free plan for students; [summarizai.ink](https://summarizai.ink) |
 
 - [🌟 Editor's Choice](#editors-choice)
 - [📝 AI Text](#text)
